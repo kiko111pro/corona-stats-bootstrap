@@ -1,0 +1,18 @@
+/* -----------CARD------------- */
+
+.blue{
+    border-left: 5px solid blue;
+}
+.green{
+    border-left: 5px solid rgb(7, 177, 7);
+}
+.red{
+    border-left: 5px solid red;
+}
+.blue .card-title{color: blue}
+.green .card-title{color: green}
+.red .card-title{color: red}
+
+
+/* -------------UserData-------------- */
+
